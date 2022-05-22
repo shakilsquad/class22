@@ -1,0 +1,30 @@
+.header-area img{
+	width: 50px;
+}
+.banner-area{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://mobirise.com/extensions/appamp/assets/images/mbr-10.jpg) center no-repeat;
+	background-size: cover;
+	padding: 200px 0;
+	
+}
+.service-img{
+	width: 40%;
+	overflow: hidden;
+}
+.service-text{
+	width: 60%;
+}
+
+.service-item{
+	height: 260px;
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+}
+.service-item.one img{
+	margin-left: -90px;
+}
+.service-item.two img{
+	margin-left: -32px;
+}
+.service-item.three img{
+	margin: 0;
+}
